@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# This is a bold **message** 
+## H2 header in *Ilatic*
+
+Now we add lists:
+- header 1
+- header 2
+
